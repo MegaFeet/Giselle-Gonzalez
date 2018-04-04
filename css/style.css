@@ -406,7 +406,7 @@ h5.pro-link {
 }
 .details-shade{
     padding: 75px 0 0;
-    background:rgba(22, 21, 23, 0.6);
+    background:rgba(0, 0, 0, 0.0);
 }
 .details-shade,.details-grid{
     min-height:275px;

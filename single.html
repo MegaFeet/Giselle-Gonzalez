@@ -208,45 +208,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					<div class="Profile-mid">
 						<h5 class="pro-link">Profile</h5>
 					</div>
-					<div class="Profile-right">
-						<div id="dd2" class="wrapper-dropdown-2" tabindex="1"><i class="fa fa-bars"></i>
-							<ul class="dropdown">
-								<li><a href="#">Edit Profile </a></li>
-								<li><a href="#">Help</a></li>
-								<li><a href="#">Activity log</a></li>
-								<li><a href="#">Log Out</a></li>
-							</ul>
-								<script type="text/javascript">
-															function DropDown(el) {
-																this.dd = el;
-																this.initEvents();
-															}
-															DropDown.prototype = {
-																initEvents : function() {
-																	var obj = this;
-												
-																	obj.dd.on('click', function(event){
-																		$(this).toggleClass('active');
-																		event.stopPropagation();
-																	});	
-																}
-															}
-															$(function() {
-												
-																var dd = new DropDown( $('#dd2') );
-												
-																$(document).click(function() {
-																	// all dropdowns
-																	$('.wrapper-dropdown-2').removeClass('active');
-																});
-												
-															});
-								</script>
-						</div>
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				
+					
 					<div class="fit-goals">
 						<h3>Fitness Goals</h3>
 						<div class="col-sm-6 goal-left">

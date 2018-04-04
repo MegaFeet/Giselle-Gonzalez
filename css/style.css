@@ -583,12 +583,12 @@ h5.pro-link {
 /* Effect 7 */
 
 .hi-icon.goal-icon1{
-    background:url(../images/pic1hover.png) no-repeat 10px 5px;
+    background:url(../images/pic1hover.png) no-repeat 15px 10px;
     width: 67px;
-    height: 67px;
+    height: 60px;
 }
 .hi-icon.goal-icon2{
-    background:url(../images/pic2hover.png) no-repeat 10px 5px;
+    background:url(../images/pic2hover.png) no-repeat 15px 10p;
     width: 67px;
     height: 67px;
 }

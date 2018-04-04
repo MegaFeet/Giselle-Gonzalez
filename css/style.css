@@ -519,7 +519,7 @@ h5.pro-link {
     width: 64%;
 }
 .goal-info h4 {
-    color: #B377D9;
+    color: #cd3060;
     font-size: 19px;
     margin: 6px 0 12px 0px;
     font-weight: 500;
@@ -621,7 +621,7 @@ h5.pro-link {
     width: 50%;
 }
 .programs h1 {
-    color: #B377D9;
+    color: #cd3060;
     font-size: 24px;
     margin-bottom: 30px;
     text-indent: 1em;
@@ -777,7 +777,7 @@ h5.pro-link {
 .accordion-section-content {
     padding: 15px;
     display: none;
-    border: 1px solid #B377D9;
+    border: 1px solid #cd3060;
     border-top: none;
     background: #fff;
 }
@@ -899,7 +899,7 @@ p.tit-one:before{
     margin: 0 4% 0 0;
 }
 p.tit-two:before{
-    background: #B377D9;
+    background: #cd3060;
     width: 13px;
     height: 13px;
     display: inline-block;
@@ -941,7 +941,7 @@ p.tit-two:before{
 .about-gd-left h5 {
     color: #fff;
     font-size: 1.5em;
-    background: #B377D9;
+    background: #cd3060;
     padding: 20px 0;
 }
 .about-gd-right p {
@@ -1044,7 +1044,7 @@ a.signup-btn:focus, a.signup-btn:hover{
     border: none;
     font-size: 16px;
     color: #fff;
-    background: #B377D9;
+    background: #cd3060;
     width: 100%;
     padding: 22px 0;
     text-align: center;
@@ -1114,7 +1114,7 @@ a.signup-btn:focus, a.signup-btn:hover{
 }
 .like-icons {
     margin-top: 30px;
-    background: #B377D9;
+    background: #cd3060;
 }
 .like-icons ul li p {
     margin-top: 22px;

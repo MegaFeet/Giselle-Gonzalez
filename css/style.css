@@ -73,7 +73,7 @@ text-decoration:underline;
 	}
 .phn-status-bar{
     padding: 5px 0;
-    background: #b377d9 !important;
+    background: #cd3060 !important;
 }
 .float-stn1{
     width: 33.3333333%;
@@ -253,7 +253,7 @@ h5.pro-link {
 }
 .menu-notify {
     padding: 6px 0;
-    background: #b377d9 !important;
+    background: #cd3060 !important;
 }
 
 .panel {
@@ -271,7 +271,7 @@ h5.pro-link {
 	z-index:999;
 }
 .search {
-    background: #B377D9;
+    background: #cd3060;
     border-radius: 100px;
 }
 .search input[type="search"] {
@@ -322,7 +322,7 @@ h5.pro-link {
     line-height: 20px;
     color: #fff;
     text-align: center;
-    background-color: #B377D9;
+    background-color: #cd3060;
 }
 .pro-menu p{
 	color:#fff;

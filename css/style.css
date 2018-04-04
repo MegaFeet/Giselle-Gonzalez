@@ -583,17 +583,17 @@ h5.pro-link {
 /* Effect 7 */
 
 .hi-icon.goal-icon1{
-    background:url(../images/pic1hover.png) no-repeat 15px 10px;
+    background:url(../images/pic1hover.png) no-repeat 10px 5px;
     width: 67px;
     height: 67px;
 }
 .hi-icon.goal-icon2{
-    background:url(../images/pic2hover.png) no-repeat 15px 10px;
+    background:url(../images/pic2hover.png) no-repeat 10px 5px;
     width: 67px;
     height: 67px;
 }
 .hi-icon.goal-icon3{
-    background:url(../images/pic4hover.png) no-repeat 15px 10px;
+    background:url(../images/pic4hover.png) no-repeat 10px 5px;
     width: 67px;
     height: 67px;
 }
